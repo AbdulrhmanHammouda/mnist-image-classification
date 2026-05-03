@@ -1,0 +1,14 @@
+{
+  "best_model":"best_cv",
+  "best_feature":"hog",
+  "test_accuracy":0.9723333333,
+  "test_macro_f1":0.972072133,
+  "test_weighted_f1":0.9723378879,
+  "config":{
+    "feature_mode":"hog",
+    "C":1.0,
+    "lr":0.02,
+    "epochs":15,
+    "batch_size":256
+  }
+}
