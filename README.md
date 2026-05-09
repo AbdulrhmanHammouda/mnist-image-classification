@@ -33,10 +33,12 @@ MNIST-Image-Classification/
 ├── 📁 Binary Classification/
 │   ├── 📁 KNN/                     # K-Nearest Neighbors implementation
 │   ├── 📁 LinearSVM/               # Linear SVM analysis and experiments
+│   ├── 📁 KernelSVM/               # Kernel SVM analysis and experiments
 │   ├── 📁 Logistic Regression/     # Class imbalance handling, undersampling, and tuning
 │   └── 📁 Naive Bayes/             # Bernoulli Naive Bayes experiments
 ├── 📁 Multiclass Classification/
-│   ├── 📁 LinearSVM/               # Multiclass SVM implementation and analysis
+│   ├── 📁 LinearSVM/               # Multiclass Linear SVM implementation and analysis
+│   ├── 📁 KernelSVM/               # Multiclass Kernel SVM implementation and analysis
 │   ├── 📁 Logistic Regression/     # Multinomial logistic regression
 │   └── 📁 Naive Bayes/             # Multiclass Naive Bayes experiments
 ├── 📁 reports/                     # Technical reports, mathematical formulations, and results
