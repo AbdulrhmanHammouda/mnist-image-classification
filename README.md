@@ -123,8 +123,4 @@ _(Populate this section with summary tables or key insights from your experiment
 - **Binary Classification (7 vs Rest):** Achieved robust F1-scores by effectively handling the ~9:1 class imbalance.
 - **Multiclass Classification (0-9):** Reached high accuracy across all 10 digits, minimizing confusion between visually similar digits (e.g., 4 and 9, 3 and 8).
 
----
 
-## 🤝 Contributors & Acknowledgments
-
-> This project was developed in accordance with the requirements for the **CSE382: Introduction to Machine Learning** course.
